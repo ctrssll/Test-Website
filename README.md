@@ -1,13 +1,14 @@
 # Test-Website
 
 <!DOCTYPE html>
-  <html>
-    <head>
-      <style>
-      p { color: red};
-      </style>
-    </head>
-    <body>
-      <p> Test </p>
-    </body
-  </html>
+<html>
+
+<head>
+  <title>Page Title</title>
+</head>
+
+<body>
+The content of the document......
+</body>
+
+</html>
