@@ -2,11 +2,6 @@
 
 <!DOCTYPE html>
 <html>
-
-<head>
-  <title>Page Title</title>
-</head>
-
 <body>
 The content of the document......
 </body>
